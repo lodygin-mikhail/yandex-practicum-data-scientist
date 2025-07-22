@@ -1,4 +1,4 @@
-# Data-Science-Yandex-practicum
+# Учебные проекты по Data Science
 | Название | Описание | Используемые библиотеки |
 | --- | --- | --- |
 | [Выбор локации для скважины](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/tree/main/Well%20location) | Поиск прибыльного нефтедобывающего региона с помощью моделирования машинного обучения | *Pandas, Numpy, Seaborn, Scikit-learn, Bootstrap* |
