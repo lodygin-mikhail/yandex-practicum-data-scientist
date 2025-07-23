@@ -1,6 +1,6 @@
 # Выпускной проект: Промышленность
 
-[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Car%20cost%20estimation/Project%206.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Car%20cost%20estimation/Project%206.ipynb)
+[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Energy%20consumption%20optimization%20for%20steel%20processing/Project%2010.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Energy%20consumption%20optimization%20for%20steel%20processing/Project%2010.ipynb)
 
 ## Описание проекта
 Чтобы оптимизировать производственные расходы, металлургический комбинат «Стальная птица» решил уменьшить потребление электроэнергии на этапе обработки стали. Для этого комбинату нужно контролировать температуру сплава. 
