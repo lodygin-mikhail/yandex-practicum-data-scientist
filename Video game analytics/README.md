@@ -1,6 +1,6 @@
 # Исследование данных о продажах компьютерных игр
 
-[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Text%20analysis/Project%208.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Text%20analysis/Project%208.ipynb)
+[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Video%20game%20analytics/Project%201.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Video%20game%20analytics/Project%201.ipynb)
 
 ## Описание проекта
 Вы работаете в интернет-магазине «Стримчик», который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Вам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
