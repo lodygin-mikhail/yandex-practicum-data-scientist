@@ -1,6 +1,6 @@
 # HR аналитика
 
-[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Car%20cost%20estimation/Project%206.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Car%20cost%20estimation/Project%206.ipynb)
+[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/HR%20analytics/Project%204.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/HR%20analytics/Project%204.ipynb)
 
 ## Навыки и инструменты
 
