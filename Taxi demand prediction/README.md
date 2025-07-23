@@ -1,6 +1,6 @@
 # Прогнозирование заказов такси
 
-[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Supervised%20learning%2C%20model%20quality/Project%203.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Supervised%20learning%2C%20model%20quality/Project%203.ipynb)
+[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Taxi%20demand%20prediction/Project%207.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Taxi%20demand%20prediction/Project%207.ipynb)
 
 ## Описание проекта
 Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.
