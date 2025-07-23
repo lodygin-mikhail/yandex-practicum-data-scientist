@@ -1,6 +1,6 @@
 # Создание модели МО отбора коров для покупки
 
-[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Car%20cost%20estimation/Project%206.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Car%20cost%20estimation/Project%206.ipynb)
+[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Linear%20ML%20models/Project%202.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Linear%20ML%20models/Project%202.ipynb)
 
 ## Описание проекта
 Вы работаете в IT-компании, которая выполняет на заказ проекты по машинному обучению. К вам обратился фермер, владелец молочного хозяйства «Вольный луг». Он хочет купить бурёнок, чтобы расширить поголовье стада коров. Для этого он заключил выгодный контракт с ассоциацией пастбищ «ЭкоФерма».
