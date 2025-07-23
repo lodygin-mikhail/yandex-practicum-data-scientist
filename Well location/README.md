@@ -1,6 +1,6 @@
 # Выбор локации для скважины
 
-[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Video%20game%20analytics/Project%201.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Video%20game%20analytics/Project%201.ipynb)
+[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Well%20location/Project%205.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Well%20location/Project%205.ipynb)
 
 ## Описание проекта
 Допустим, вы работаете в добывающей компании «ГлавРосГосНефть». Нужно решить, где бурить новую скважину.
