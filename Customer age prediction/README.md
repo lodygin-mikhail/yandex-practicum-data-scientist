@@ -1,6 +1,6 @@
 # Определение возраста покупателей
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Car%20cost%20estimation/Project%206.ipynb)
+[HTML](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Customer%20age%20prediction/Project%209.html)     [ipynb](https://github.com/lodygin-mikhail/yandex-practicum-data-scientist/blob/main/Customer%20age%20prediction/Project%209.ipynb)
 
 ## Описание проекта
 Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов, чтобы:
